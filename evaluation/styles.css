@@ -1,0 +1,169 @@
+body{
+  font-family: cursive;
+}
+
+*{
+  box-sizing: border-box;
+}
+.logo{
+   height:300px;
+   width:300px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
+
+
+.jat{
+  height: 500px;
+  width:700px;
+}
+.jat:hover{
+  opacity:0.8;
+}
+.slides{
+  height:400px;
+  width:100%;
+}
+.slides:hover{
+  opacity:0.9;
+}
+.img1{
+  padding:10px 0;
+   width:400px;
+}
+.icon{
+  padding:2px;
+  margin-left:20px;
+}
+.para{
+  letter-spacing: 1.5px;
+}
+.img10{
+  width:100px;
+  padding-top:20px;
+  padding-right:30px;
+  margin-left:20px;
+}
+.img99{
+  width:700px;
+  height:500px;
+}
+.img99:hover{
+  opacity:0.9;
+}
+.div99{
+  margin-left:70px;
+}
+.div98{
+  text-align:center;
+  letter-spacing: 1px;
+}
+.div100{
+  margin-left:60px;
+  padding-top:20px;
+}
+.div101{
+  text-align:center;
+
+
+
+}
+.p1{
+  border-left: 3px solid black;
+  border-right:3px solid black;
+  height:7px;
+  letter-spacing: 1px;
+  padding:2px;
+}
+.div103{
+  text-align:center;
+  margin-left:60px;
+
+}
+.div104{
+  text-align:center;
+  margin-left:60px;
+}
+.div105{
+  margin-left:40px;
+  padding:10px 0;
+
+
+}
+.div106{
+  height:200px;
+  width:400px;
+}
+.div107{
+
+  text-align: center;
+  margin-left: 250px;
+  margin-top:20px;
+}
+.div108{
+
+  text-align:center;
+  margin-left:250px;
+}
+.div109{
+  margin-left:200px;
+}
+.div110{
+  border-bottom:2px solid black;
+  width:20px;
+
+}
+ .div111{
+   border-bottom:2px solid black;
+   width:20px;
+
+ }
+ .div112{
+   border-bottom:2px solid black;
+   width:20px;
+
+ }
+ .div113{
+   border-bottom:2px solid black;
+   width:20px;
+   color:black;
+
+
+ }
+ .div113:hover{
+   text-decoration: none;
+   color:red;
+   cursor:pointer;
+
+ }
+
+ .div114{
+    border-bottom:2px solid black;
+
+ }
+ .icon1{
+   width:200px;
+   height:100px;
+   text-align: center;
+   background-color:lightgrey;
+
+
+ }
+ .icon40{
+   margin-top: 50px;
+   padding:0 10px;
+ }
+ .form{
+   margin-left:450px;
+ }
+ .card-body{
+   margin-top:50px 0 ;
+   background-color: lightgrey;
+ }
+ .centered{
+   margin: 100px;
+ }
+ .ce{
+   
+ }
